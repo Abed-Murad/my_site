@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'My main interests are: Software architecture, Comparative Programming, Running and entrepreneurship.',
   paragraphThree:
-    'My work philosophy: Communication and collaboration with others is the key to great work, nothing really interesting is ever built alone!',
+    'Work philosophy: Communication and collaboration with others is the key to great work, nothing really interesting is ever built alone!',
   resume: 'https://www.linkedin.com/in/abed-murad/', // if no resume, the button will not show up
 };
 
