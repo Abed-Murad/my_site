@@ -49,6 +49,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'youth_council.png',
+    title: 'Youth Council',
+    info: '',
+    info2: '',
+    url: 'https://play.google.com/store/apps/details?id=org.syfpal.application',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'ya_msahel.png',
     title: 'Ya Msahel',
     info: '',
@@ -58,11 +67,20 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'youth_council.png',
-    title: 'Youth Council',
+    img: 'movies_app.png',
+    title: 'Popular Movies',
     info: '',
     info2: '',
-    url: 'https://play.google.com/store/apps/details?id=org.syfpal.application',
+    url: 'www.google.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'murad_chat.png',
+    title: 'Murad Chat',
+    info: '',
+    info2: '',
+    url: 'www.google.com',
     repo: '', // if no repo, the button will not show up
   },
 ];
