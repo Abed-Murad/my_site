@@ -24,8 +24,7 @@ export const aboutData = {
     'I hold over 4 years of experience leveraging Kotlin & Java to produce robust, well-architected apps.',
   paragraphThree:
     'I like building new stuff and work with other people – nothing really interesting is ever built alone!',
-  resume:
-    'https://docs.google.com/document/d/1dYz6rQE1pt0ZE_PJTJcXhLk5csBxU2djVBIKW-41jE4/edit?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/abed-murad/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
