@@ -84,6 +84,15 @@ export const projectsData = [
     url: 'www.google.com',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'carly.png',
+    title: 'Carly',
+    info: '',
+    info2: '',
+    url: 'www.google.com',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA

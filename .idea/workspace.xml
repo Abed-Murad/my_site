@@ -53,8 +53,31 @@
       <updated>1609013203027</updated>
       <workItem from="1609013206299" duration="2964000" />
       <workItem from="1609016373352" duration="2066000" />
-      <workItem from="1609066900790" duration="2537000" />
+      <workItem from="1609066900790" duration="2877000" />
+      <workItem from="1609072694480" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1609071006323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609071006323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1609071223887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609071223887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 2">
+      <created>1609071238070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609071238070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +94,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
