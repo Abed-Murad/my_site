@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'canvas.png',
   paragraphOne:
-    "I'm a Google-certified Android Engineer, 4 years of experience leveraging Kotlin & Java to produce robust, well-architected apps based on advanced CS knowledge.",
+    "I'm a Google-certified Android Engineer, with 4 years of experience leveraging Kotlin & Java to produce robust, well-architected apps based on advanced CS knowledge.",
   paragraphTwo:
     'My main interests are: Software architecture, Comparative Programming, Running and entrepreneurship.',
   paragraphThree:
