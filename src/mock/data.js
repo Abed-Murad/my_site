@@ -89,6 +89,15 @@ export const projectsData = [
     url: 'https://github.com/Abed-Murad/ND_Popular-Movies',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'frind_book_app.png',
+    title: 'Friend book library',
+    info: 'An internal app to process and manage books orders for a library.',
+    info2: '',
+    url: 'https://play.google.com/store/apps/details?id=com.am.friend_book_library2&hl=en&gl=US',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
