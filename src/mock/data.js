@@ -2,51 +2,54 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
+  title: 'Abed Murad', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'Hey, my name is',
+  name: 'Abed Murad',
+  subtitle: "I'm an Android Engineer",
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  img: 'canvas.png',
+  paragraphOne:
+    "I'm a Google-certified Android Engineer, Who provides solutions based on advanced CS knowledge.",
+  paragraphTwo:
+    'I hold over 4 years of experience leveraging Kotlin & Java to produce robust, well-architected apps.',
+  paragraphThree: "I'm cool",
+  resume:
+    'https://docs.google.com/document/d/1dYz6rQE1pt0ZE_PJTJcXhLk5csBxU2djVBIKW-41jE4/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'homoola.png',
+    title: 'Homoola Captain',
+    info: 'Homoola is a state of the art transportation platform that provides its clients',
+    info2: 'with the perfect solution for all their land transportation needs in one place.',
+    url: 'https://play.google.com/store/apps/details?id=com.Homoola.HomoolaCaptain&hl=en',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'fans_republic.png',
+    title: 'Fans Republic',
+    info: 'The 1st Football Social Network.. all about football in one place!',
+    info2: 'Stay updated with live football events 24/7, while enjoying your time..',
+    url: 'https://play.google.com/store/apps/details?id=com.am.fansrepublic',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ya_msahel.png',
     title: '',
     info: '',
     info2: '',
@@ -59,7 +62,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'dev.abed.murad@gmail.com',
 };
 
 // FOOTER DATA
@@ -68,27 +71,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Abed__Murad',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/abed__murad/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/abed-murad/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Abed-Murad/',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
