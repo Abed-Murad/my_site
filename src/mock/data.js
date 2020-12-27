@@ -50,11 +50,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'ya_msahel.png',
-    title: '',
+    title: 'Ya Msahel',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'www.google.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'youth_council.png',
+    title: 'Youth Council',
+    info: '',
+    info2: '',
+    url: 'https://play.google.com/store/apps/details?id=org.syfpal.application',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
