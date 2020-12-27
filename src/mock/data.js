@@ -52,8 +52,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'youth_council.png',
     title: 'Youth Council',
-    info: '',
-    info2: '',
+    info: 'An internal communication app for the local Youth councils',
+    info2:
+      'A way to send and receive data vertically and horizontally inside the councils hierarchical structure',
     url: 'https://play.google.com/store/apps/details?id=org.syfpal.application',
     repo: '', // if no repo, the button will not show up
   },
@@ -61,37 +62,31 @@ export const projectsData = [
     id: nanoid(),
     img: 'carly.png',
     title: 'Carly',
-    info: '',
-    info2: '',
-    url: 'www.google.com',
+    info: 'A peer-to-peer car sharing marketplace ',
+    info2:
+      'Carly helps cars owners to hearn some extra money by ranting there cars to tenants in prices 30% lower than the car rental agencies',
+    url: 'https://github.com/Abed-Murad/carly',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'ya_msahel.png',
     title: 'Ya Msahel',
-    info: '',
-    info2: '',
-    url: 'www.google.com',
+    info: 'YaMsahel An online accommodation booking',
+    info2:
+      'YaMsahel is a clone of Yamsafer, an online booking platform for flights tickets and hotel rooms.',
+    url: 'https://github.com/Abed-Murad/YaMsahel',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'movies_app.png',
     title: 'Popular Movies',
-    info: '',
-    info2: '',
-    url: 'www.google.com',
-    repo: '', // if no repo, the button will not show up
-  },
-
-  {
-    id: nanoid(),
-    img: 'murad_chat.png',
-    title: 'Murad Chat',
-    info: '',
-    info2: '',
-    url: 'www.google.com',
+    info:
+      'A place where you can discover the most popular, the most rated or the highest rated movies',
+    info2:
+      'Save favorite movies locally to view them even when offline, watch trailers and Read reviews',
+    url: 'https://github.com/Abed-Murad/ND_Popular-Movies',
     repo: '', // if no repo, the button will not show up
   },
 ];
