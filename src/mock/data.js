@@ -74,6 +74,7 @@ export const projectsData = [
     url: 'www.google.com',
     repo: '', // if no repo, the button will not show up
   },
+
   {
     id: nanoid(),
     img: 'murad_chat.png',
