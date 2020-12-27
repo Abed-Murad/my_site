@@ -22,7 +22,8 @@ export const aboutData = {
     "I'm a Google-certified Android Engineer, Who provides solutions based on advanced CS knowledge.",
   paragraphTwo:
     'I hold over 4 years of experience leveraging Kotlin & Java to produce robust, well-architected apps.',
-  paragraphThree: "I'm cool",
+  paragraphThree:
+    'I like building new stuff and work with other people – nothing really interesting is ever built alone!',
   resume:
     'https://docs.google.com/document/d/1dYz6rQE1pt0ZE_PJTJcXhLk5csBxU2djVBIKW-41jE4/edit?usp=sharing', // if no resume, the button will not show up
 };
@@ -58,6 +59,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'carly.png',
+    title: 'Carly',
+    info: '',
+    info2: '',
+    url: 'www.google.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'ya_msahel.png',
     title: 'Ya Msahel',
     info: '',
@@ -79,15 +89,6 @@ export const projectsData = [
     id: nanoid(),
     img: 'murad_chat.png',
     title: 'Murad Chat',
-    info: '',
-    info2: '',
-    url: 'www.google.com',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'carly.png',
-    title: 'Carly',
     info: '',
     info2: '',
     url: 'www.google.com',
