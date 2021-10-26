@@ -31,6 +31,25 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'ahoy_merchant.png',
+    title: 'AHOY',
+    info: 'AHOY Merchant',
+    info2:
+      'The AHOY Merchant app is your mobile interface to work with the AHOY platform as a merchant to dispatch and book services and perform transactions, COD and much more.',
+    url: 'https://play.google.com/store/apps/details?id=com.theahoyapp.merchant',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'ahoy_bounty.png',
+    title: 'AHOY',
+    info: 'AHOY Bounty',
+    info2: 'The App used by ahoy bounties to do daily tasks and earn money on the platform.',
+    url: 'https://play.google.com/store/apps/details?id=com.theahoyapp.bounty',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'homoola.png',
     title: 'Homoola ',
     info: 'Homoola Captain for Trucks.',
